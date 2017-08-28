@@ -1,0 +1,243 @@
+[
+    {
+        "outputFile": "/Users/uba/projects/android_challenge/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 39,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 38,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 38,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 2959,
+                    "endColumn": 57,
+                    "endOffset": 3012
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 3017,
+                    "endColumn": 55,
+                    "endOffset": 3068
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 3073,
+                    "endColumn": 51,
+                    "endOffset": 3120
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 3125,
+                    "endColumn": 51,
+                    "endOffset": 3172
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 3177,
+                    "endColumn": 50,
+                    "endOffset": 3223
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 3228,
+                    "endColumn": 60,
+                    "endOffset": 3284
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 60,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 3289,
+                    "endColumn": 60,
+                    "endOffset": 3345
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 3350,
+                    "endColumn": 59,
+                    "endOffset": 3405
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 3410,
+                    "endColumn": 55,
+                    "endOffset": 3461
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3466,
+                    "endColumn": 51,
+                    "endOffset": 3513
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3518,
+                    "endColumn": 45,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endColumn": 52,
+                    "endOffset": 3612
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3617,
+                    "endColumn": 51,
+                    "endOffset": 3664
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3669,
+                    "endColumn": 52,
+                    "endOffset": 3717
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3722,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 3850
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

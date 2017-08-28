@@ -1,0 +1,146 @@
+[
+    {
+        "outputFile": "/Users/uba/projects/android_challenge/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 57,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 51,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 51,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 50,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 60,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 60,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 60,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 59,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 56,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 51,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 45,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "/Users/uba/projects/android_challenge/app/src/main/res/values-w720dp/dimens.xml"
+                }
+            }
+        ]
+    }
+]

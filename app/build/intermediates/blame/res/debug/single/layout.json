@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/uba/projects/android_challenge/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/uba/projects/android_challenge/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/uba/projects/android_challenge/app/build/intermediates/res/merged/debug/layout/list_item_news.xml",
+        "source": "/Users/uba/projects/android_challenge/app/src/main/res/layout/list_item_news.xml"
+    },
+    {
+        "merged": "/Users/uba/projects/android_challenge/app/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/Users/uba/projects/android_challenge/app/src/main/res/layout/activity_detail.xml"
+    }
+]
