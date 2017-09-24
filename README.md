@@ -21,25 +21,14 @@ The screenshot below shows how the app looks like when it is done.
 All the data is coming from the web endpoint.
 The response contains a list of news items as well as URLs to the pictures associated with each story.
 
-## Fix crashes in News List page
-Can you help fix all bugs so that it can display news list properly?
+## Fixed crashes in News List page
 
-## Fix crashes in News Detail page
-Can you help fix all bugs so that the app can show news detail properly? Also, clicking on "Full Story" button, it should open a browser and display full story in the browser.
+## Fixed crashes in News Detail page
 
 ## Basic unit test
-Can you help to write unit tests for MediaEntity and NewsEntity?
+
 
 ## Improvements
-1. The main logic is written in MainActivity, which is not a very clean way to construct an app. Can you help to improve it?
-
-2. The way of fetching and  parsing JSON data is not very nice. For example, if one of the name/value is missing, it
-can cause the app to crash.
-
-3. The layout is only suitable for phones. Can you create an immersive tablet experience?
-
-Can you help to make it better?
-
 ## Notes
 1. It is possible that some of the stories do not have images.
 2. It is possible that the link to the full story might not work as it is controlled by New York Times.
